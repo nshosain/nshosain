@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Nazmul Hosain
+- 👋 Hi, I’m Nazmul Hosain
 - 👀 I’m interested in SaaS products
 - 🌱 I’m currently learning node.js with TypeScript 
 - 💞️ I’m looking to collaborate on opnsource projects
