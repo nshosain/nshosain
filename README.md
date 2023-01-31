@@ -1,7 +1,10 @@
 - Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Nazmul Hosain!  
+<h1 align="center">Hi 👋, I'm Md. Ripon Mia</h1>
 
-<a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+<p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
+
+<a href="https://linkedin.com/in/nshosain">
+  <img align="left" alt="Md Nazmul Hosain LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 
 </br>
@@ -29,11 +32,6 @@
 
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
   
-  <h1 align="center">Hi 👋, I'm Md. Ripon Mia</h1>
-
-I have a very particular set of skills with a keen and logical mind and a practical approach to solving the problem. I am eager to learn. I enjoy overcoming challenges. Seeking for the opportunity to bring my 3+ years of experience in Software Development with incorporating critical thinking and leadership.
-
-<p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
 
 - 🌱 I’m currently learning **ReactJs & NestJs**
 
