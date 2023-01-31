@@ -1,7 +1,6 @@
-- Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Nazmul Hosain!  
-<h1 align="center">Hi 👋, I'm Md. Ripon Mia</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Nazmul Hosain!</h1>
 
-<p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/nshosain" alt="nshosain" /> </p>
 
 <a href="https://linkedin.com/in/nshosain">
   <img align="left" alt="Md Nazmul Hosain LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
