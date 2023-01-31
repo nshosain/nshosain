@@ -1,5 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Nazmul Hosain!</h1>
-
+<p align="left"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Nazmul Hosain! </p>
 <p align="left"> <img src="https://gpvc.arturio.dev/nshosain" alt="nshosain" /> </p>
 
 <a href="https://linkedin.com/in/nshosain">
