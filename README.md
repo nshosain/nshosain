@@ -24,5 +24,3 @@
 </br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nshosain&show_icons=true&theme=great-gatsby" alt="nshosain" />
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
